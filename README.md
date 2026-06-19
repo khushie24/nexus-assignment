@@ -4,7 +4,7 @@
 
 A founder shouldn't have to spend a week manually researching competitors before they know what to build next. NexusIntel takes a product description, website, or company name, and in under a minute returns a structured, evidence-backed view of the market: who you're up against, where you're behind, who to sell to first, and what to do today.
 
-**Live app:** [nexus-intel.vercel.app](https://nexus-intel.vercel.app)
+**Live app:** [nexus-intel.vercel.app]([https://nexus-intel.vercel.app](https://nexus-assignment-sooty.vercel.app/))
 **Repo:** this repository
 
 ---
